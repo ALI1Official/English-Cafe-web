@@ -1,382 +1,382 @@
-[2025-03-10 16:43:36] [class-ss-archive-creation-job.php:97] Starting a job; no job is presently running
-[2025-03-10 16:43:36] [class-ss-archive-creation-job.php:98] Here's our task list: setup, fetch_urls, transfer_files_locally, wrapup
-[2025-03-10 16:43:36] [class-ss-archive-creation-job.php:116] Pushing first task to queue: setup
-[2025-03-10 16:43:37] [class-ss-archive-creation-job.php:172] Current task: setup
-[2025-03-10 16:43:37] [class-ss-archive-creation-job.php:182] Performing task: setup
-[2025-03-10 16:43:37] [class-ss-task.php:44] Status message: [setup] Setting up
-[2025-03-10 16:43:37] [class-ss-setup-task.php:33] Creating archive directory: E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016\
-[2025-03-10 16:43:37] [class-ss-setup-task.php:72] Adding origin URL to queue: http://localhost/
-[2025-03-10 16:43:37] [class-ss-setup-task.php:155] Adding files from directory: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads
-[2025-03-10 16:43:37] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\2024-02-27-removebg-preview-1.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
-[2025-03-10 16:43:37] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\2024-02-27-removebg-preview-2.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
-[2025-03-10 16:43:37] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\2024-02-27-removebg-preview-3.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
-[2025-03-10 16:43:37] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
-[2025-03-10 16:43:37] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\2024-02-27-removebg-preview.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
-[2025-03-10 16:43:37] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\259c265b-b5d1-4067-8c82-5e790cd5.jpg to queue as: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-150x150.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-180x180.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-192x192.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-270x270.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-300x300.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-32x32.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\DALLE_2025-02-02_17.54.05_-_A_di.jpg to queue as: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\simply-static\78fa2d08821e44032bd60c86bcbada2c-debug.txt to queue as: http://localhost/wp-content/uploads/simply-static/78fa2d08821e44032bd60c86bcbada2c-debug.txt
-[2025-03-10 16:43:38] [class-ss-setup-task.php:155] Adding files from directory: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\2024-02-27-removebg-preview-1.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\2024-02-27-removebg-preview-2.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\2024-02-27-removebg-preview-3.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\2024-02-27-removebg-preview.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\259c265b-b5d1-4067-8c82-5e790cd5.jpg to queue as: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-150x150.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-180x180.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-192x192.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-270x270.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-300x300.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-32x32.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\DALLE_2025-02-02_17.54.05_-_A_di.jpg to queue as: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
-[2025-03-10 16:43:38] [class-ss-setup-task.php:155] Adding files from directory: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\2024-02-27-removebg-preview-1.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\2024-02-27-removebg-preview-2.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\2024-02-27-removebg-preview-3.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\2024-02-27-removebg-preview.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\259c265b-b5d1-4067-8c82-5e790cd5.jpg to queue as: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-150x150.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-180x180.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-192x192.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-270x270.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-300x300.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-32x32.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
-[2025-03-10 16:43:38] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\DALLE_2025-02-02_17.54.05_-_A_di.jpg to queue as: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
-[2025-03-10 16:43:38] [class-ss-setup-task.php:146] File E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg exists; adding to queue as: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
-[2025-03-10 16:43:38] [class-ss-setup-task.php:146] File E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg exists; adding to queue as: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
-[2025-03-10 16:43:39] [class-ss-setup-task.php:146] File E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png exists; adding to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
-[2025-03-10 16:43:39] [class-ss-archive-creation-job.php:204] We've found our next task: fetch_urls
-[2025-03-10 16:43:40] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
-[2025-03-10 16:43:40] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
-[2025-03-10 16:43:40] [class-ss-fetch-urls-task.php:66] Total pages: 16; Pages remaining: 16
-[2025-03-10 16:43:40] [class-ss-fetch-urls-task.php:69] URL: http://localhost/
-[2025-03-10 16:43:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 16
-[2025-03-10 16:43:40] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:43:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16bc57395-z3V2gx.tmp
-[2025-03-10 16:43:40] [class-ss-page-handler.php:38] URL Prepared:http://localhost/?simply_static_page=29
-[2025-03-10 16:43:40] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/?simply_static_page=29
-[2025-03-10 16:43:43] [class-ss-url-fetcher.php:103] Filesize: 63046 bytes
-[2025-03-10 16:43:43] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
-[2025-03-10 16:43:43] [class-ss-url-fetcher.php:233] New filename for static page: /index.html
-[2025-03-10 16:43:43] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16bc57395-z3V2gx.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/index.html
-[2025-03-10 16:43:43] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:43:45] [class-ss-fetch-urls-task.php:155] Adding 15 URLs to the queue
-[2025-03-10 16:43:50] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:43:50] [class-ss-page.php:119] Checking Content Identical:310a8f871cc273350c49a838ef5b2dfd530a9034===. Value: FALSE
-[2025-03-10 16:43:51] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
-[2025-03-10 16:43:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 16
-[2025-03-10 16:43:52] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:43:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16c8b1fcd-8hSypE.tmp
-[2025-03-10 16:43:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png?simply_static_page=30
-[2025-03-10 16:43:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png?simply_static_page=30
-[2025-03-10 16:43:53] [class-ss-url-fetcher.php:103] Filesize: 453476 bytes
-[2025-03-10 16:43:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:43:53] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
-[2025-03-10 16:43:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16c8b1fcd-8hSypE.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
-[2025-03-10 16:43:54] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:43:54] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:43:54] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:43:54] [class-ss-page.php:119] Checking Content Identical:797c75e72adaef1fdef15410646ec01fbf00e3ee===. Value: FALSE
-[2025-03-10 16:43:54] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
-[2025-03-10 16:43:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 16
-[2025-03-10 16:43:55] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:43:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16cb22643-6asY9V.tmp
-[2025-03-10 16:43:55] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png?simply_static_page=31
-[2025-03-10 16:43:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png?simply_static_page=31
-[2025-03-10 16:43:55] [class-ss-url-fetcher.php:103] Filesize: 453476 bytes
-[2025-03-10 16:43:55] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:43:55] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
-[2025-03-10 16:43:55] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16cb22643-6asY9V.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
-[2025-03-10 16:43:55] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:43:55] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:43:55] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:43:55] [class-ss-page.php:119] Checking Content Identical:797c75e72adaef1fdef15410646ec01fbf00e3ee===. Value: FALSE
-[2025-03-10 16:43:55] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
-[2025-03-10 16:43:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 16
-[2025-03-10 16:43:56] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:43:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16cca098d-MIoIcg.tmp
-[2025-03-10 16:43:56] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png?simply_static_page=32
-[2025-03-10 16:43:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png?simply_static_page=32
-[2025-03-10 16:43:56] [class-ss-url-fetcher.php:103] Filesize: 401501 bytes
-[2025-03-10 16:43:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:43:56] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
-[2025-03-10 16:43:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16cca098d-MIoIcg.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
-[2025-03-10 16:43:57] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:43:57] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:43:57] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:43:57] [class-ss-page.php:119] Checking Content Identical:fb404e43f1de220688e344fee5f3e1c083686665===. Value: FALSE
-[2025-03-10 16:43:58] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
-[2025-03-10 16:43:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 16
-[2025-03-10 16:43:58] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:43:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16ce98b26-wPuIiN.tmp
-[2025-03-10 16:43:58] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png?simply_static_page=33
-[2025-03-10 16:43:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png?simply_static_page=33
-[2025-03-10 16:43:58] [class-ss-url-fetcher.php:103] Filesize: 401501 bytes
-[2025-03-10 16:43:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:43:58] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
-[2025-03-10 16:43:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16ce98b26-wPuIiN.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
-[2025-03-10 16:43:59] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:43:59] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:43:59] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:43:59] [class-ss-page.php:119] Checking Content Identical:fb404e43f1de220688e344fee5f3e1c083686665===. Value: FALSE
-[2025-03-10 16:43:59] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
-[2025-03-10 16:43:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 16
-[2025-03-10 16:44:00] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16d094533-Dd9x0U.tmp
-[2025-03-10 16:44:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png?simply_static_page=34
-[2025-03-10 16:44:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png?simply_static_page=34
-[2025-03-10 16:44:00] [class-ss-url-fetcher.php:103] Filesize: 453476 bytes
-[2025-03-10 16:44:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:44:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
-[2025-03-10 16:44:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16d094533-Dd9x0U.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
-[2025-03-10 16:44:01] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:01] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:01] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:01] [class-ss-page.php:119] Checking Content Identical:797c75e72adaef1fdef15410646ec01fbf00e3ee===. Value: FALSE
-[2025-03-10 16:44:02] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
-[2025-03-10 16:44:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 16
-[2025-03-10 16:44:03] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16d304b6d-sNhrnC.tmp
-[2025-03-10 16:44:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg?simply_static_page=35
-[2025-03-10 16:44:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg?simply_static_page=35
-[2025-03-10 16:44:03] [class-ss-url-fetcher.php:103] Filesize: 326198 bytes
-[2025-03-10 16:44:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
-[2025-03-10 16:44:03] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
-[2025-03-10 16:44:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16d304b6d-sNhrnC.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
-[2025-03-10 16:44:03] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:03] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:03] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:03] [class-ss-page.php:119] Checking Content Identical:02c491d7324d014c9237819d36e77ca66d1a02dd===. Value: FALSE
-[2025-03-10 16:44:03] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
-[2025-03-10 16:44:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 16
-[2025-03-10 16:44:04] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16d401de1-2H0FLW.tmp
-[2025-03-10 16:44:04] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png?simply_static_page=36
-[2025-03-10 16:44:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png?simply_static_page=36
-[2025-03-10 16:44:04] [class-ss-url-fetcher.php:103] Filesize: 48640 bytes
-[2025-03-10 16:44:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:44:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
-[2025-03-10 16:44:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16d401de1-2H0FLW.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
-[2025-03-10 16:44:04] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:04] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:04] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:04] [class-ss-page.php:119] Checking Content Identical:cfc8292b84c35f6b079f0434e319709786069887===. Value: FALSE
-[2025-03-10 16:44:05] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
-[2025-03-10 16:44:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 16
-[2025-03-10 16:44:06] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16d64eb41-uUgzUQ.tmp
-[2025-03-10 16:44:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png?simply_static_page=37
-[2025-03-10 16:44:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png?simply_static_page=37
-[2025-03-10 16:44:06] [class-ss-url-fetcher.php:103] Filesize: 66779 bytes
-[2025-03-10 16:44:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:44:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
-[2025-03-10 16:44:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16d64eb41-uUgzUQ.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
-[2025-03-10 16:44:07] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:07] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:07] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:07] [class-ss-page.php:119] Checking Content Identical:2c6ece4e7fb7cc2b02062823430ba7f135582740===. Value: FALSE
-[2025-03-10 16:44:07] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
-[2025-03-10 16:44:07] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 16
-[2025-03-10 16:44:07] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:07] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16d7cbfc8-dDuDam.tmp
-[2025-03-10 16:44:07] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png?simply_static_page=38
-[2025-03-10 16:44:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png?simply_static_page=38
-[2025-03-10 16:44:07] [class-ss-url-fetcher.php:103] Filesize: 74816 bytes
-[2025-03-10 16:44:07] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:44:07] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
-[2025-03-10 16:44:07] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16d7cbfc8-dDuDam.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
-[2025-03-10 16:44:08] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:08] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:08] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:08] [class-ss-page.php:119] Checking Content Identical:75aab9ea78d9726ada71a8de193b699cc0897882===. Value: FALSE
-[2025-03-10 16:44:09] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
-[2025-03-10 16:44:09] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 16
-[2025-03-10 16:44:09] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:09] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16d9cd6dd-D0N23p.tmp
-[2025-03-10 16:44:09] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png?simply_static_page=39
-[2025-03-10 16:44:09] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png?simply_static_page=39
-[2025-03-10 16:44:09] [class-ss-url-fetcher.php:103] Filesize: 134201 bytes
-[2025-03-10 16:44:09] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:44:09] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
-[2025-03-10 16:44:09] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16d9cd6dd-D0N23p.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
-[2025-03-10 16:44:10] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:10] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:10] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:10] [class-ss-page.php:119] Checking Content Identical:c2b5aade12ff7d296af0eeb5e2fea23264d48160===. Value: FALSE
-[2025-03-10 16:44:10] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
-[2025-03-10 16:44:10] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 16
-[2025-03-10 16:44:10] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:10] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16dabdf1c-aJSMoK.tmp
-[2025-03-10 16:44:10] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png?simply_static_page=40
-[2025-03-10 16:44:10] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png?simply_static_page=40
-[2025-03-10 16:44:10] [class-ss-url-fetcher.php:103] Filesize: 160864 bytes
-[2025-03-10 16:44:10] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:44:10] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
-[2025-03-10 16:44:10] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16dabdf1c-aJSMoK.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
-[2025-03-10 16:44:12] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:12] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:12] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:12] [class-ss-page.php:119] Checking Content Identical:22b4491e574f32b061f17bbb0cd023560ad7cd95===. Value: FALSE
-[2025-03-10 16:44:12] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
-[2025-03-10 16:44:12] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 16
-[2025-03-10 16:44:12] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:12] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16dccc50a-TpiwVl.tmp
-[2025-03-10 16:44:12] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png?simply_static_page=41
-[2025-03-10 16:44:12] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png?simply_static_page=41
-[2025-03-10 16:44:12] [class-ss-url-fetcher.php:103] Filesize: 3316 bytes
-[2025-03-10 16:44:12] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:44:12] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
-[2025-03-10 16:44:12] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16dccc50a-TpiwVl.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
-[2025-03-10 16:44:13] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:13] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:13] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:13] [class-ss-page.php:119] Checking Content Identical:5f572d0cf602b37e8456251ea95f01e579813846===. Value: FALSE
-[2025-03-10 16:44:13] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
-[2025-03-10 16:44:13] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 16
-[2025-03-10 16:44:14] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:14] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16de85045-ubLO1K.tmp
-[2025-03-10 16:44:14] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png?simply_static_page=42
-[2025-03-10 16:44:14] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png?simply_static_page=42
-[2025-03-10 16:44:14] [class-ss-url-fetcher.php:103] Filesize: 405665 bytes
-[2025-03-10 16:44:14] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
-[2025-03-10 16:44:14] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
-[2025-03-10 16:44:14] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16de85045-ubLO1K.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
-[2025-03-10 16:44:14] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:14] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:14] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:14] [class-ss-page.php:119] Checking Content Identical:0a0957f4afc51eea7f25310fa9e2805979b374aa===. Value: FALSE
-[2025-03-10 16:44:15] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
-[2025-03-10 16:44:15] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 16
-[2025-03-10 16:44:15] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:15] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16df633b2-ZpQWvi.tmp
-[2025-03-10 16:44:15] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg?simply_static_page=43
-[2025-03-10 16:44:15] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg?simply_static_page=43
-[2025-03-10 16:44:15] [class-ss-url-fetcher.php:103] Filesize: 256397 bytes
-[2025-03-10 16:44:15] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
-[2025-03-10 16:44:15] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
-[2025-03-10 16:44:15] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16df633b2-ZpQWvi.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
-[2025-03-10 16:44:15] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:15] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:15] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:15] [class-ss-page.php:119] Checking Content Identical:2332dfd817e16d3cf3f7ba3fd91e1464dc07141d===. Value: FALSE
-[2025-03-10 16:44:15] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/simply-static/78fa2d08821e44032bd60c86bcbada2c-debug.txt
-[2025-03-10 16:44:15] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 16
-[2025-03-10 16:44:16] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/wp-content/uploads/simply-static/78fa2d08821e44032bd60c86bcbada2c-debug.txt
-[2025-03-10 16:44:16] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
-[2025-03-10 16:44:16] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 0 of 16 pages/files
-[2025-03-10 16:44:16] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
-[2025-03-10 16:44:20] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
-[2025-03-10 16:44:20] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
-[2025-03-10 16:44:20] [class-ss-fetch-urls-task.php:66] Total pages: 22; Pages remaining: 6
-[2025-03-10 16:44:20] [class-ss-fetch-urls-task.php:69] URL: http://localhost/feed
-[2025-03-10 16:44:20] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 22
-[2025-03-10 16:44:20] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/feed
-[2025-03-10 16:44:20] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
-[2025-03-10 16:44:20] [class-ss-fetch-urls-task.php:69] URL: http://localhost/comments/feed
-[2025-03-10 16:44:20] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 22
-[2025-03-10 16:44:21] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/comments/feed
-[2025-03-10 16:44:21] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
-[2025-03-10 16:44:21] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/themes/makoa/style.css
-[2025-03-10 16:44:21] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 22
-[2025-03-10 16:44:22] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:22] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16e680a77-1Rxxxs.tmp
-[2025-03-10 16:44:22] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/themes/makoa/style.css?simply_static_page=47
-[2025-03-10 16:44:22] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/themes/makoa/style.css?simply_static_page=47
-[2025-03-10 16:44:22] [class-ss-url-fetcher.php:103] Filesize: 4278 bytes
-[2025-03-10 16:44:22] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
-[2025-03-10 16:44:22] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/makoa/style.css
-[2025-03-10 16:44:22] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16e680a77-1Rxxxs.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/themes/makoa/style.css
-[2025-03-10 16:44:22] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:22] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:22] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:22] [class-ss-page.php:119] Checking Content Identical:6d1cf3a51647e4bf92c089c3fc0a22281725c50f===. Value: FALSE
-[2025-03-10 16:44:23] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-json/
-[2025-03-10 16:44:23] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 22
-[2025-03-10 16:44:25] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/wp-json/
-[2025-03-10 16:44:25] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
-[2025-03-10 16:44:25] [class-ss-fetch-urls-task.php:69] URL: http://localhost/xmlrpc.php
-[2025-03-10 16:44:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 22
-[2025-03-10 16:44:25] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/xmlrpc.php
-[2025-03-10 16:44:25] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
-[2025-03-10 16:44:25] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf
-[2025-03-10 16:44:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 22
-[2025-03-10 16:44:26] [class-ss-fetch-urls-task.php:80] URL is not being excluded
-[2025-03-10 16:44:26] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf16ea22ad5-50o8WE.tmp
-[2025-03-10 16:44:26] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf?simply_static_page=50
-[2025-03-10 16:44:26] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf?simply_static_page=50
-[2025-03-10 16:44:27] [class-ss-url-fetcher.php:103] Filesize: 238984 bytes
-[2025-03-10 16:44:27] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
-[2025-03-10 16:44:27] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf
-[2025-03-10 16:44:27] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf16ea22ad5-50o8WE.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016/wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf
-[2025-03-10 16:44:27] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
-[2025-03-10 16:44:27] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
-[2025-03-10 16:44:27] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
-[2025-03-10 16:44:27] [class-ss-page.php:119] Checking Content Identical:bd912858c0f8887c01a56b09e6b1ca1cf81418ee===. Value: FALSE
-[2025-03-10 16:44:28] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 16 of 22 pages/files
-[2025-03-10 16:44:29] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
-[2025-03-10 16:44:29] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
-[2025-03-10 16:44:29] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
-[2025-03-10 16:44:29] [class-ss-fetch-urls-task.php:66] Total pages: 22; Pages remaining: 0
-[2025-03-10 16:44:29] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 22 of 22 pages/files
-[2025-03-10 16:44:29] [class-ss-archive-creation-job.php:204] We've found our next task: transfer_files_locally
-[2025-03-10 16:44:29] [class-ss-archive-creation-job.php:234] Cleaning on first run for task: transfer_files_locally
-[2025-03-10 16:44:29] [class-ss-archive-creation-job.php:172] Current task: transfer_files_locally
-[2025-03-10 16:44:29] [class-ss-archive-creation-job.php:182] Performing task: transfer_files_locally
-[2025-03-10 16:44:29] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /index.html
-[2025-03-10 16:44:30] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/
-[2025-03-10 16:44:30] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
-[2025-03-10 16:44:31] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:31] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
-[2025-03-10 16:44:32] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:32] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
-[2025-03-10 16:44:33] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:33] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
-[2025-03-10 16:44:35] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:35] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
-[2025-03-10 16:44:36] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:36] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
-[2025-03-10 16:44:36] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:36] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
-[2025-03-10 16:44:37] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:37] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
-[2025-03-10 16:44:37] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:37] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
-[2025-03-10 16:44:38] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:38] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
-[2025-03-10 16:44:38] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:38] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
-[2025-03-10 16:44:42] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:42] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
-[2025-03-10 16:44:43] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:43] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
-[2025-03-10 16:44:45] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:46] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
-[2025-03-10 16:44:46] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
-[2025-03-10 16:44:46] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/makoa/style.css
-[2025-03-10 16:44:47] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/themes/makoa
-[2025-03-10 16:44:47] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf
-[2025-03-10 16:44:48] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/themes/makoa/assets/fonts
-[2025-03-10 16:44:48] [class-ss-transfer-files-locally-task.php:98] [Transfer] Total Pages:17. Processed Pages: 17
-[2025-03-10 16:44:48] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 17 of 17 files
-[2025-03-10 16:44:49] [trait-can-process-pages.php:114] Total pages: 17; Pages remaining: 0
-[2025-03-10 16:44:49] [class-ss-transfer-files-locally-task.php:197] Transferring 404 Page
-[2025-03-10 16:44:49] [class-ss-transfer-files-locally-task.php:200] No 404 Page found at E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741625016\404\index.html
-[2025-03-10 16:44:49] [class-ss-task.php:44] Status message: [destination_url] Destination URL: <a href="https://ali1official.github.io/English-Cafe-web/" target="_blank">https://ali1official.github.io/English-Cafe-web/</a>
-[2025-03-10 16:44:49] [class-ss-archive-creation-job.php:204] We've found our next task: wrapup
-[2025-03-10 16:44:52] [class-ss-archive-creation-job.php:172] Current task: wrapup
-[2025-03-10 16:44:52] [class-ss-archive-creation-job.php:182] Performing task: wrapup
-[2025-03-10 16:44:52] [class-ss-wrapup-task.php:22] Deleting temporary files
-[2025-03-10 16:44:52] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
-[2025-03-10 16:44:53] [class-ss-archive-creation-job.php:199] This task is done and there are no more tasks, time to complete the job
-[2025-03-10 16:44:55] [class-ss-archive-creation-job.php:244] Completing the job
-[2025-03-10 16:44:55] [class-ss-archive-creation-job.php:371] Status message: [done] Done! Finished in 00:01:19
+[2025-03-10 17:15:32] [class-ss-archive-creation-job.php:97] Starting a job; no job is presently running
+[2025-03-10 17:15:32] [class-ss-archive-creation-job.php:98] Here's our task list: setup, fetch_urls, transfer_files_locally, wrapup
+[2025-03-10 17:15:32] [class-ss-archive-creation-job.php:116] Pushing first task to queue: setup
+[2025-03-10 17:15:33] [class-ss-archive-creation-job.php:172] Current task: setup
+[2025-03-10 17:15:33] [class-ss-archive-creation-job.php:182] Performing task: setup
+[2025-03-10 17:15:33] [class-ss-task.php:44] Status message: [setup] Setting up
+[2025-03-10 17:15:33] [class-ss-setup-task.php:33] Creating archive directory: E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932\
+[2025-03-10 17:15:33] [class-ss-setup-task.php:72] Adding origin URL to queue: http://localhost/
+[2025-03-10 17:15:33] [class-ss-setup-task.php:155] Adding files from directory: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\2024-02-27-removebg-preview-1.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\2024-02-27-removebg-preview-2.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\2024-02-27-removebg-preview-3.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\2024-02-27-removebg-preview.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\259c265b-b5d1-4067-8c82-5e790cd5.jpg to queue as: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-150x150.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-180x180.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-192x192.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-270x270.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-300x300.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
+[2025-03-10 17:15:33] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4-32x32.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\cropped-2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\2025\03\DALLE_2025-02-02_17.54.05_-_A_di.jpg to queue as: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads\simply-static\78fa2d08821e44032bd60c86bcbada2c-debug.txt to queue as: http://localhost/wp-content/uploads/simply-static/78fa2d08821e44032bd60c86bcbada2c-debug.txt
+[2025-03-10 17:15:34] [class-ss-setup-task.php:155] Adding files from directory: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\2024-02-27-removebg-preview-1.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\2024-02-27-removebg-preview-2.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\2024-02-27-removebg-preview-3.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\2024-02-27-removebg-preview.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\259c265b-b5d1-4067-8c82-5e790cd5.jpg to queue as: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-150x150.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-180x180.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-192x192.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-270x270.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-300x300.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4-32x32.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\cropped-2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025\03\DALLE_2025-02-02_17.54.05_-_A_di.jpg to queue as: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
+[2025-03-10 17:15:34] [class-ss-setup-task.php:155] Adding files from directory: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\2024-02-27-removebg-preview-1.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\2024-02-27-removebg-preview-2.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\2024-02-27-removebg-preview-3.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\2024-02-27-removebg-preview.png to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\259c265b-b5d1-4067-8c82-5e790cd5.jpg to queue as: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-150x150.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-180x180.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-192x192.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-270x270.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-300x300.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4-32x32.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\cropped-2024-02-27-removebg-preview-4.png to queue as: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:34] [class-ss-setup-task.php:160] Adding file E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03\DALLE_2025-02-02_17.54.05_-_A_di.jpg to queue as: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
+[2025-03-10 17:15:34] [class-ss-setup-task.php:146] File E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg exists; adding to queue as: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
+[2025-03-10 17:15:35] [class-ss-setup-task.php:146] File E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg exists; adding to queue as: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
+[2025-03-10 17:15:35] [class-ss-setup-task.php:146] File E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png exists; adding to queue as: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
+[2025-03-10 17:15:35] [class-ss-archive-creation-job.php:204] We've found our next task: fetch_urls
+[2025-03-10 17:15:35] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-03-10 17:15:35] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-03-10 17:15:35] [class-ss-fetch-urls-task.php:66] Total pages: 16; Pages remaining: 16
+[2025-03-10 17:15:35] [class-ss-fetch-urls-task.php:69] URL: http://localhost/
+[2025-03-10 17:15:35] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 16
+[2025-03-10 17:15:35] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:35] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e372f8bb-6SWR5X.tmp
+[2025-03-10 17:15:35] [class-ss-page-handler.php:38] URL Prepared:http://localhost/?simply_static_page=51
+[2025-03-10 17:15:35] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/?simply_static_page=51
+[2025-03-10 17:15:36] [class-ss-url-fetcher.php:103] Filesize: 63085 bytes
+[2025-03-10 17:15:36] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2025-03-10 17:15:36] [class-ss-url-fetcher.php:233] New filename for static page: /index.html
+[2025-03-10 17:15:36] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e372f8bb-6SWR5X.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/index.html
+[2025-03-10 17:15:36] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:36] [class-ss-fetch-urls-task.php:155] Adding 15 URLs to the queue
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:37] [class-ss-page.php:119] Checking Content Identical:6c480108d84a9e1eff9f874b689efcfc5c7bc101===. Value: FALSE
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
+[2025-03-10 17:15:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 16
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e39703b4-YOlzEF.tmp
+[2025-03-10 17:15:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png?simply_static_page=52
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png?simply_static_page=52
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:103] Filesize: 453476 bytes
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e39703b4-YOlzEF.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:37] [class-ss-page.php:119] Checking Content Identical:797c75e72adaef1fdef15410646ec01fbf00e3ee===. Value: FALSE
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
+[2025-03-10 17:15:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 16
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3993ab5-UUlo34.tmp
+[2025-03-10 17:15:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png?simply_static_page=53
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png?simply_static_page=53
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:103] Filesize: 453476 bytes
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3993ab5-UUlo34.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:37] [class-ss-page.php:119] Checking Content Identical:797c75e72adaef1fdef15410646ec01fbf00e3ee===. Value: FALSE
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
+[2025-03-10 17:15:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 16
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e39ac264-HsjRuT.tmp
+[2025-03-10 17:15:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png?simply_static_page=54
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png?simply_static_page=54
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:103] Filesize: 401501 bytes
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
+[2025-03-10 17:15:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e39ac264-HsjRuT.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:37] [class-ss-page.php:119] Checking Content Identical:fb404e43f1de220688e344fee5f3e1c083686665===. Value: FALSE
+[2025-03-10 17:15:37] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 16
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3a03dba-C0XrNC.tmp
+[2025-03-10 17:15:38] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png?simply_static_page=55
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png?simply_static_page=55
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:103] Filesize: 401501 bytes
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3a03dba-C0XrNC.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:38] [class-ss-page.php:119] Checking Content Identical:fb404e43f1de220688e344fee5f3e1c083686665===. Value: FALSE
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
+[2025-03-10 17:15:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 16
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3a2c795-6ZyuQ8.tmp
+[2025-03-10 17:15:38] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png?simply_static_page=56
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png?simply_static_page=56
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:103] Filesize: 453476 bytes
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3a2c795-6ZyuQ8.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:38] [class-ss-page.php:119] Checking Content Identical:797c75e72adaef1fdef15410646ec01fbf00e3ee===. Value: FALSE
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
+[2025-03-10 17:15:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 16
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3a4d189-6MpCzu.tmp
+[2025-03-10 17:15:38] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg?simply_static_page=57
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg?simply_static_page=57
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:103] Filesize: 326198 bytes
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3a4d189-6MpCzu.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:38] [class-ss-page.php:119] Checking Content Identical:02c491d7324d014c9237819d36e77ca66d1a02dd===. Value: FALSE
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
+[2025-03-10 17:15:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 16
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3a7b25d-PQdKN5.tmp
+[2025-03-10 17:15:38] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png?simply_static_page=58
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png?simply_static_page=58
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:103] Filesize: 48640 bytes
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3a7b25d-PQdKN5.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:38] [class-ss-page.php:119] Checking Content Identical:cfc8292b84c35f6b079f0434e319709786069887===. Value: FALSE
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
+[2025-03-10 17:15:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 16
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3aa9578-UpaRo0.tmp
+[2025-03-10 17:15:38] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png?simply_static_page=59
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png?simply_static_page=59
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:103] Filesize: 66779 bytes
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
+[2025-03-10 17:15:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3aa9578-UpaRo0.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:38] [class-ss-page.php:119] Checking Content Identical:2c6ece4e7fb7cc2b02062823430ba7f135582740===. Value: FALSE
+[2025-03-10 17:15:38] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
+[2025-03-10 17:15:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 16
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3b0947e-dMEbED.tmp
+[2025-03-10 17:15:39] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png?simply_static_page=60
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png?simply_static_page=60
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:103] Filesize: 74816 bytes
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3b0947e-dMEbED.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:39] [class-ss-page.php:119] Checking Content Identical:75aab9ea78d9726ada71a8de193b699cc0897882===. Value: FALSE
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
+[2025-03-10 17:15:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 16
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3b21bfa-wbAtyS.tmp
+[2025-03-10 17:15:39] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png?simply_static_page=61
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png?simply_static_page=61
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:103] Filesize: 134201 bytes
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3b21bfa-wbAtyS.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:39] [class-ss-page.php:119] Checking Content Identical:c2b5aade12ff7d296af0eeb5e2fea23264d48160===. Value: FALSE
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
+[2025-03-10 17:15:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 16
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3b472c1-QEphm3.tmp
+[2025-03-10 17:15:39] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png?simply_static_page=62
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png?simply_static_page=62
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:103] Filesize: 160864 bytes
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3b472c1-QEphm3.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:39] [class-ss-page.php:119] Checking Content Identical:22b4491e574f32b061f17bbb0cd023560ad7cd95===. Value: FALSE
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
+[2025-03-10 17:15:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 16
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3b6db57-Euzvwc.tmp
+[2025-03-10 17:15:39] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png?simply_static_page=63
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png?simply_static_page=63
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:103] Filesize: 3316 bytes
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3b6db57-Euzvwc.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:39] [class-ss-page.php:119] Checking Content Identical:5f572d0cf602b37e8456251ea95f01e579813846===. Value: FALSE
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 16
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3b931c7-XlSvrK.tmp
+[2025-03-10 17:15:39] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png?simply_static_page=64
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png?simply_static_page=64
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:103] Filesize: 405665 bytes
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3b931c7-XlSvrK.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:39] [class-ss-page.php:119] Checking Content Identical:0a0957f4afc51eea7f25310fa9e2805979b374aa===. Value: FALSE
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
+[2025-03-10 17:15:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 16
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3bbf19f-38WGkK.tmp
+[2025-03-10 17:15:39] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg?simply_static_page=65
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg?simply_static_page=65
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:103] Filesize: 256397 bytes
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
+[2025-03-10 17:15:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3bbf19f-38WGkK.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:39] [class-ss-page.php:119] Checking Content Identical:2332dfd817e16d3cf3f7ba3fd91e1464dc07141d===. Value: FALSE
+[2025-03-10 17:15:39] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/uploads/simply-static/78fa2d08821e44032bd60c86bcbada2c-debug.txt
+[2025-03-10 17:15:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 16
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/wp-content/uploads/simply-static/78fa2d08821e44032bd60c86bcbada2c-debug.txt
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
+[2025-03-10 17:15:40] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 0 of 16 pages/files
+[2025-03-10 17:15:40] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-03-10 17:15:40] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-03-10 17:15:40] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:66] Total pages: 22; Pages remaining: 6
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:69] URL: http://localhost/feed
+[2025-03-10 17:15:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 22
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/feed
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:69] URL: http://localhost/comments/feed
+[2025-03-10 17:15:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 22
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/comments/feed
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/themes/makoa/style.css
+[2025-03-10 17:15:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 22
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3c5f93d-KgQfDH.tmp
+[2025-03-10 17:15:40] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/themes/makoa/style.css?simply_static_page=69
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/themes/makoa/style.css?simply_static_page=69
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:103] Filesize: 4278 bytes
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/makoa/style.css
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3c5f93d-KgQfDH.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/themes/makoa/style.css
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:40] [class-ss-page.php:119] Checking Content Identical:6d1cf3a51647e4bf92c089c3fc0a22281725c50f===. Value: FALSE
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-json/
+[2025-03-10 17:15:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 22
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/wp-json/
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:69] URL: http://localhost/xmlrpc.php
+[2025-03-10 17:15:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 22
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:76] Excludable found: URL: http://localhost/xmlrpc.php
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:86] Skipping URL because it is no-save and no-follow
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:69] URL: http://localhost/wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf
+[2025-03-10 17:15:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 22
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:80] URL is not being excluded
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\LENOVO\AppData\Local\Temp/67cf1e3caebc5-grvVsn.tmp
+[2025-03-10 17:15:40] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf?simply_static_page=72
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf?simply_static_page=72
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:103] Filesize: 238984 bytes
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf
+[2025-03-10 17:15:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\LENOVO\AppData\Local\Temp/67cf1e3caebc5-grvVsn.tmp to E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932/wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:148] Extracting URLs and replacing URLs in the static file
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:155] Adding 0 URLs to the queue
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:166] We're saving this URL; keeping the static file
+[2025-03-10 17:15:40] [class-ss-page.php:119] Checking Content Identical:bd912858c0f8887c01a56b09e6b1ca1cf81418ee===. Value: FALSE
+[2025-03-10 17:15:40] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 16 of 22 pages/files
+[2025-03-10 17:15:40] [class-ss-archive-creation-job.php:212] We're not done with the fetch_urls task yet
+[2025-03-10 17:15:40] [class-ss-archive-creation-job.php:172] Current task: fetch_urls
+[2025-03-10 17:15:40] [class-ss-archive-creation-job.php:182] Performing task: fetch_urls
+[2025-03-10 17:15:40] [class-ss-fetch-urls-task.php:66] Total pages: 22; Pages remaining: 0
+[2025-03-10 17:15:40] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 22 of 22 pages/files
+[2025-03-10 17:15:40] [class-ss-archive-creation-job.php:204] We've found our next task: transfer_files_locally
+[2025-03-10 17:15:40] [class-ss-archive-creation-job.php:234] Cleaning on first run for task: transfer_files_locally
+[2025-03-10 17:15:40] [class-ss-archive-creation-job.php:172] Current task: transfer_files_locally
+[2025-03-10 17:15:40] [class-ss-archive-creation-job.php:182] Performing task: transfer_files_locally
+[2025-03-10 17:15:40] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /index.html
+[2025-03-10 17:15:40] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/
+[2025-03-10 17:15:40] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-1.png
+[2025-03-10 17:15:41] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:41] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-2.png
+[2025-03-10 17:15:42] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:42] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-3.png
+[2025-03-10 17:15:44] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:45] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:45] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:45] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/2024-02-27-removebg-preview.png
+[2025-03-10 17:15:46] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:46] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/259c265b-b5d1-4067-8c82-5e790cd5.jpg
+[2025-03-10 17:15:46] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:46] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-150x150.png
+[2025-03-10 17:15:47] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:47] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-180x180.png
+[2025-03-10 17:15:48] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:49] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-192x192.png
+[2025-03-10 17:15:49] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:49] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-270x270.png
+[2025-03-10 17:15:50] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:50] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-300x300.png
+[2025-03-10 17:15:51] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:53] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4-32x32.png
+[2025-03-10 17:15:53] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:53] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/cropped-2024-02-27-removebg-preview-4.png
+[2025-03-10 17:15:54] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:54] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/uploads/2025/03/DALLE_2025-02-02_17.54.05_-_A_di.jpg
+[2025-03-10 17:15:54] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/uploads/2025/03
+[2025-03-10 17:15:54] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/makoa/style.css
+[2025-03-10 17:15:54] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/themes/makoa
+[2025-03-10 17:15:54] [class-ss-transfer-files-locally-task.php:116] Trying to transfer: /wp-content/themes/makoa/assets/fonts/DMSans-VariableFont_opsz,wght.ttf
+[2025-03-10 17:15:55] [class-ss-transfer-files-locally-task.php:137] Successfully transferred: E:/Programming/Installiations/Xampp/htdocs/wp-content/themes/makoa/assets/fonts
+[2025-03-10 17:15:55] [class-ss-transfer-files-locally-task.php:98] [Transfer] Total Pages:17. Processed Pages: 17
+[2025-03-10 17:15:55] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 17 of 17 files
+[2025-03-10 17:15:55] [trait-can-process-pages.php:114] Total pages: 17; Pages remaining: 0
+[2025-03-10 17:15:55] [class-ss-transfer-files-locally-task.php:197] Transferring 404 Page
+[2025-03-10 17:15:55] [class-ss-transfer-files-locally-task.php:200] No 404 Page found at E:\Programming\Installiations\Xampp\htdocs/wp-content/uploads\simply-static\temp-files/simply-static-1-1741626932\404\index.html
+[2025-03-10 17:15:55] [class-ss-task.php:44] Status message: [destination_url] Destination URL: <a href="https://ali1official.github.io/English-Cafe-web/" target="_blank">https://ali1official.github.io/English-Cafe-web/</a>
+[2025-03-10 17:15:56] [class-ss-archive-creation-job.php:204] We've found our next task: wrapup
+[2025-03-10 17:16:00] [class-ss-archive-creation-job.php:172] Current task: wrapup
+[2025-03-10 17:16:00] [class-ss-archive-creation-job.php:182] Performing task: wrapup
+[2025-03-10 17:16:00] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2025-03-10 17:16:00] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2025-03-10 17:16:01] [class-ss-archive-creation-job.php:199] This task is done and there are no more tasks, time to complete the job
+[2025-03-10 17:16:02] [class-ss-archive-creation-job.php:244] Completing the job
+[2025-03-10 17:16:03] [class-ss-archive-creation-job.php:371] Status message: [done] Done! Finished in 00:00:30
